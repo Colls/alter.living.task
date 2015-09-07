@@ -1,0 +1,16 @@
+{
+    "name": "colls/task",
+    "authors": [
+        {
+            "name": "Pavel Balabay",
+            "email": "balpal@rambler.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App",
+            "Human\\": "Human"
+        }
+    },
+    "require": {}
+}
